@@ -5,7 +5,7 @@
 ## Sobre:
 - Curto música, podcasts e filmes do tarantino. 
 - Gosto do movimento Open Source
-- Uso linux/ubuntu com o xodó que é XFCE
+- Uso linux/ubuntu com o meu xodó que é o XFCE
 - Muita vontade de aprender e estar em constante evolução, sempre em busca do próximo nível, tanto pessoal quanto profissional.
 
 ### Foco | Meta
