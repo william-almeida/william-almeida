@@ -8,4 +8,4 @@
 - Muita vontade de aprender e estar em constante evolução, sempre em busca do próximo nível, tanto pessoal quanto profissional.
 
 ### Foco | Meta
-*Javascript, Node e React*. Pretendo dominar essas técnologias e com elas fazer do mundo um lugar melhor, sempre reolvendo um problema aqui e outro ali.
+*Javascript, Node e React*. Pretendo dominar essas tecnologias no momento mas sempre namorando e tudo que há de novo.
